@@ -1,0 +1,178 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: #F1F0EE;
+}
+@font-face {
+    font-family: graphik-semibold;
+    src: url(GraphikSemiboldItalic.otf);
+}
+
+.con_1{
+    margin-left: 64px;
+}
+.cont_2{
+    margin-right: 63px;
+}
+.span_1, .span_2{
+    font-weight: 600;
+    font-size: 29.8266px;
+    letter-spacing: -0.03em;
+    color: #000000;
+}
+.span_2{
+    color: rgba(0, 0, 0, 0.3) !important;
+}
+.a_1{
+    font-weight: 500;
+    font-size: 20px;
+    color: #161616;
+}
+.cont_3{
+    margin-left: 64px;
+    margin-top: 77px;
+}
+.p_welcome{
+    font-weight: 500;
+    font-size: 60px;
+    color: #101828;
+    letter-spacing: -0.02em;
+}
+.p_stoked{
+    font-weight: 400;
+    font-size: 20px;
+    color: #161616;
+}
+.cont_4{
+    margin-left: 64px;
+}
+.cont_5{
+    width: 447px;
+    height: 575px;
+    background: #E4E2DF;
+    border-radius: 12px;
+}
+.p_about{
+    font-weight: 400;
+    font-size: 40px;
+    color: #101828;
+    letter-spacing: -0.02em;
+}
+.P_paragraph1, .a2{
+    font-weight: 400;
+    font-size: 18px;
+    color: rgba(22, 22, 22, 0.6);
+}
+.p_why{
+    font-weight: 400;
+    font-size: 24px;
+    color: #161616;
+}
+.p_improve{
+    font-weight: 400;
+    font-size: 18px;
+    color: #161616;
+}
+li{
+    font-weight: 400;
+    font-size: 18px;
+    color: rgba(22, 22, 22, 0.6);
+}
+.box1{
+    width: 63px;
+    height: 63px;
+    background: #000000;
+}
+.p_built, .a-built{
+    font-weight: 400;
+    font-size: 18px;
+    color: #161616;
+    text-decoration: none;
+}
+.a-website, .h_aleks{
+    font-weight: 500;
+    font-size: 18px;
+    color: #161616;
+}
+.a-twitter, .p_founder, .p_the_team{
+    font-weight: 400;
+    font-size: 18px;
+    color: #161616;
+}
+.h_aleks{
+    font-size: 16px !important;
+}
+.p_founder{
+    font-size: 14px !important;
+}
+.P_getting{
+    font-weight: 400;
+    font-size: 40px;
+    letter-spacing: -0.02em;
+    color: #101828;
+}
+.p_howwork{
+    font-weight: 500;
+    font-size: 24px;
+    color: #161616;
+}
+.p_the_team{
+    color: rgba(22, 22, 22, 0.6) !important;
+}
+.a_st, .a_st2{
+    font-weight: 500;
+    font-size: 18px;
+    color: #161616;
+}
+.a_st2{
+    font-weight: 400 !important;
+}
+.p_how_use{
+    font-weight: 500;
+    font-size: 24px;
+    color: #161616;
+}
+.p_copy, .a_copy{
+    font-weight: 400;
+    font-size: 18px;
+    color: rgba(22, 22, 22, 0.6);
+}
+
+.p_all, .a_all{
+    font-weight: 400;
+    font-size: 18px;
+    color: rgba(22, 22, 22, 0.6);
+}
+.p_improve2{
+    font-weight: 500;
+    font-size: 40px;
+    letter-spacing: -0.02em;
+    color: #101828;
+}
+.P_all{
+    font-weight: 400;
+    font-size: 18px;
+    color: rgba(22, 22, 22, 0.6);
+}
+.button-1{
+    width: 125px;
+    height: 44px;
+    font-weight: 700;
+    font-size: 16px;
+    left: 40px;
+    top: 280px;
+}
+.p_feedback{
+    font-weight: 400;
+    font-size: 40px;
+    color: rgba(16, 24, 40, 1);
+}
+.p-last{
+    font-weight: 400;
+    font-size: 18px;
+    color: rgba(22, 22, 22, 0.6);
+    margin-bottom: 50px;
+}
