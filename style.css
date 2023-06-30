@@ -96,11 +96,13 @@ li{
     font-weight: 500;
     font-size: 18px;
     color: #161616;
+    text-decoration: none;
 }
 .a-twitter, .p_founder, .p_the_team{
     font-weight: 400;
     font-size: 18px;
     color: #161616;
+    text-decoration: none;
 }
 .h_aleks{
     font-size: 16px !important;
@@ -126,6 +128,7 @@ li{
     font-weight: 500;
     font-size: 18px;
     color: #161616;
+    text-decoration: none;
 }
 .a_st2{
     font-weight: 400 !important;
